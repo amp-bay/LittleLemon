@@ -1,5 +1,3 @@
-Here is a more detailed README for your LittleLemon API project using the Django framework:
-
 # LittleLemon API
 
 LittleLemon API is a Django-based web application designed to manage and serve data for the LittleLemon application.
@@ -55,6 +53,15 @@ To run tests, use the following command:
 python manage.py test
 ```
 
+## Additional Information
+
+The `notes.txt` file contained in the `LittleLemonApiApp` directory has the login details and token requirements:
+- `af25943c7300cec9b29100090b7fc880058e28c4` Adebayoo-MANGER
+- `4250e2d0115475c75cf894de913c7a9aca0b5f6b` Emeka-DELIVERY
+- `154760173b6e1b5adb13000b118afc16f6b95a61` admin
+- `62eac7c8ab558591704f22ee7938e7b8c2383270` Sam-Customer
+- Username: `admin`, Password: `admin123456789`
+
 ## Contributing
 
 If you want to contribute to this project, please follow these steps:
@@ -66,8 +73,3 @@ If you want to contribute to this project, please follow these steps:
 5. Push to the branch (`git push origin feature-branch`).
 6. Create a pull request.
 
-## License
-
-This project uses the [MIT License](LICENSE).
-
-Feel free to modify this template as per your project's specific requirements!
